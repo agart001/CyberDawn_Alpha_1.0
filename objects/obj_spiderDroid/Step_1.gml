@@ -1,0 +1,1 @@
+if(healthSD==0){instance_destroy(self);spawner_id.spawned--;score+=100;};

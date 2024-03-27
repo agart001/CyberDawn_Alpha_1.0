@@ -1,0 +1,1 @@
+if(health<=0){instance_destroy(obj_BC_controller);instance_destroy(self);room_goto(rm_death);};

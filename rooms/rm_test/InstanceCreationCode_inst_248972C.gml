@@ -1,0 +1,1 @@
+col_text[0] = "Health Box! Press 'E' for full Health! llllllllllllllllllllllllll";

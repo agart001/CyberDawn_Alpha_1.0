@@ -1,0 +1,9 @@
+draw_self()
+if(distance_to_object(obj_BC_testPlayer)<=player_distance)
+{
+	if(image_alpha<1){image_alpha+=.01;}
+}
+else
+{
+	if(image_alpha>0){image_alpha-=.01;}
+};

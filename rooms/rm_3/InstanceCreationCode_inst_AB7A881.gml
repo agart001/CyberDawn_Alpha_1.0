@@ -1,0 +1,1 @@
+col_text[0]="You beat level 3! take the beam{4}, as your reward!";

@@ -1,0 +1,1 @@
+col_text[0]="You must have all weapons in order to go further";
